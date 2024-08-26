@@ -3,3 +3,4 @@ b.txt file is added
 in feture3 branch i am adding this line 
 
 sd;fj
+changing b.text in master in git 
