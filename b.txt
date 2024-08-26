@@ -1,6 +1,5 @@
 b.txt file is added 
 
 in feture3 branch i am adding this line 
-
-sd;fj
+karthik
 changing b.text in master in git 
